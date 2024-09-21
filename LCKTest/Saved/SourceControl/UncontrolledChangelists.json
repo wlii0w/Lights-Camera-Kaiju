@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/LCK/Lights-Camera-Kaiju/LCKTest/Content/BP/UI/IO/IA_Locomotion.uasset",
+				"C:/LCK/Lights-Camera-Kaiju/LCKTest/Content/BP/UI/IO/IA_LookH.uasset",
+				"C:/LCK/Lights-Camera-Kaiju/LCKTest/Content/BP/UI/IO/IA_LookV.uasset",
+				"C:/LCK/Lights-Camera-Kaiju/LCKTest/Content/BP/UI/IO/IA_Strafe.uasset",
+				"C:/LCK/Lights-Camera-Kaiju/LCKTest/Content/BP/UI/IO/IMC_BaseCharacter.uasset",
+				"C:/LCK/Lights-Camera-Kaiju/LCKTest/Content/BP/BP_Character.uasset",
+				"C:/LCK/Lights-Camera-Kaiju/LCKTest/Content/test.umap"
+			]
+		}
+	]
+}
