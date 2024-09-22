@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Lights-Camera-Kaiju/LCKTest/Content/Scenes/CelShaderTest.umap",
+				"E:/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/CelShader.uasset",
+				"E:/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/TestMaterials/Blue.uasset",
+				"E:/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/TestMaterials/Pink.uasset",
+				"E:/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/TestMaterials/Metal.uasset",
 				"C:/LCK/Lights-Camera-Kaiju/LCKTest/Content/BP/UI/IO/IA_Locomotion.uasset",
 				"C:/LCK/Lights-Camera-Kaiju/LCKTest/Content/BP/UI/IO/IA_LookH.uasset",
 				"C:/LCK/Lights-Camera-Kaiju/LCKTest/Content/BP/UI/IO/IA_LookV.uasset",
