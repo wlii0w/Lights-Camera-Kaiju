@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/zeeze/Documents/GitHub/Lights-Camera-Kaiju/LCKTest/Content/test.umap",
+				"C:/Users/zeeze/Documents/GitHub/Lights-Camera-Kaiju/LCKTest/Content/Test-Folder/kaiju-Concept/dino-concept.uasset",
+				"C:/Users/zeeze/Documents/GitHub/Lights-Camera-Kaiju/LCKTest/Content/Test-Folder/kaiju-Concept/dino-concept-rigged.uasset",
+				"C:/Users/zeeze/Documents/GitHub/Lights-Camera-Kaiju/LCKTest/Content/Test-Folder/kaiju-Concept/dino-concept-rigged_PhysicsAsset.uasset",
+				"C:/Users/zeeze/Documents/GitHub/Lights-Camera-Kaiju/LCKTest/Content/Test-Folder/kaiju-Concept/dino-concept-rigged_Skeleton.uasset",
+				"C:/Users/zeeze/Documents/GitHub/Lights-Camera-Kaiju/LCKTest/Content/Test-Folder/kaiju-Concept/lambert2.uasset",
+				"C:/Users/zeeze/Documents/GitHub/Lights-Camera-Kaiju/LCKTest/Content/Test-Folder/kaiju-Concept/standardSurface1.uasset",
 				"E:/GitHub/Lights-Camera-Kaiju/LCKTest/Content/test.umap",
 				"E:/Lights-Camera-Kaiju/LCKTest/Content/Scenes/CelShaderTest.umap",
 				"E:/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/CelShader.uasset",
