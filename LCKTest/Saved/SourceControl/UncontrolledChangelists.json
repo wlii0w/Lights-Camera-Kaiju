@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHub/Lights-Camera-Kaiju/LCKTest/Content/test.umap",
 				"E:/Lights-Camera-Kaiju/LCKTest/Content/Scenes/CelShaderTest.umap",
 				"E:/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/CelShader.uasset",
 				"E:/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/TestMaterials/Blue.uasset",
