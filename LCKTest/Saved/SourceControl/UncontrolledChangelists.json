@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Workshop Project/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/TemplateMaterialCelShade.uasset",
+				"F:/Workshop Project/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/CelShader.uasset",
+				"F:/Workshop Project/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/SuperSmoothStep.uasset",
+				"F:/Workshop Project/Lights-Camera-Kaiju/LCKTest/Content/Scenes/CelShaderTest.umap",
+				"F:/Workshop Project/Lights-Camera-Kaiju/LCKTest/Content/CelPostProcess/TestMaterials/Metal.uasset",
 				"C:/Users/zeeze/Documents/GitHub/Lights-Camera-Kaiju/LCKTest/Content/test.umap",
 				"C:/Users/zeeze/Documents/GitHub/Lights-Camera-Kaiju/LCKTest/Content/Test-Folder/kaiju-Concept/dino-concept.uasset",
 				"C:/Users/zeeze/Documents/GitHub/Lights-Camera-Kaiju/LCKTest/Content/Test-Folder/kaiju-Concept/dino-concept-rigged.uasset",
