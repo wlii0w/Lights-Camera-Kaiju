@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/Lights-Camera-Kaiju/LCKTest/Content/ART/Misc_Materials/NewMaterial.uasset",
+				"D:/GitHub/Lights-Camera-Kaiju/LCKTest/Content/ART/Misc_Materials/M_Floor.uasset",
+				"D:/GitHub/Lights-Camera-Kaiju/LCKTest/Content/test.umap",
 				"E:/School Papers/2024 Fall Work/Game Projects/RepositoryStuff/Lights-Camera-Kaiju/LCKTest/Content/ART/HighRise/HighRiseUVs.uasset",
 				"E:/School Papers/2024 Fall Work/Game Projects/RepositoryStuff/Lights-Camera-Kaiju/LCKTest/Content/test.umap",
 				"E:/School Papers/2024 Fall Work/Game Projects/RepositoryStuff/Lights-Camera-Kaiju/LCKTest/Content/ART/HighRise/HighRiseMat1.uasset",
