@@ -4,7 +4,7 @@ The player can walk, jump, and sprint around the scene. A stage of assets that c
 
 Technical
 * Building destroyed on attack (2 states)
-* Basic movement
+* Space bar to jump
 * WASD / arrow keys for moving
 * Attack (left click)
 * Camera controller
@@ -16,7 +16,7 @@ Environment
 * New York inspired “landmark”
 * Vegas inspired “landmark”
 * Cell shaded textures
-* Props (street lights, trees, rooftops, etc)
+
 
 
 
